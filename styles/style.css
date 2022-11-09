@@ -26,7 +26,6 @@ body {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    background: red;
     border-radius: .8rem;
     overflow: hidden;
 }
