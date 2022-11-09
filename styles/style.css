@@ -6,9 +6,6 @@
     --Very-light-gray: hsl(0, 0%, 95%);
 }
 
-/* -Transparent white (paragraphs): hsla(0, 0%, 100%, 0.75)
--Very-light-gray-(background, headings, buttons): hsl(0, 0%, 95%) */
-
 * {
     font-family: 'Big Shoulders Display', cursive;
     font-family: 'Lexend Deca', sans-serif;
